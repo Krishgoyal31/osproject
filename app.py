@@ -422,5 +422,4 @@ class AdvancedThreatMatrix(tk.Tk):
 if __name__ == "__main__":
     app = AdvancedThreatMatrix()
     app.mainloop()
-    hiii i am krish
-    chle be madarchod
+   
